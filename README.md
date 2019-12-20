@@ -57,12 +57,12 @@ For FAQ, please refer to this [guide](docs/faq.md).
 
 The best way to report an issue is to create a Github Issue for the project. Please include the following information when creating the issue:
 
-- Subscription ID for AKS cluster.
-- Subscription ID for Application Gateway.
-- AKS cluster name/ARM Resource ID.
-- Application Gateway name/ARM Resource ID.
-- Ingress resource definition that might causing the problem.
-- The Helm configuration used to install the ingress controller.
+ - Subscription ID for AKS cluster.
+ - Subscription ID for Application Gateway.
+ - AKS cluster name/ARM Resource ID.
+ - Application Gateway name/ARM Resource ID.
+ - Ingress resource definition that might causing the problem.
+ - The Helm configuration used to install the ingress controller.
 
 ## Contributing
 
